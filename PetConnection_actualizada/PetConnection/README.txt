@@ -1,0 +1,1 @@
+PETCONNECTION LANDING PAGE\n\nOpen this folder in Visual Studio Code and run index.html with Live Server.\nKeep the assets folder next to index.html, styles.css and script.js.\n\nImages supplied by the user:\n- assets/pug.jpg\n- assets/golden-retriever.webp\n- assets/logo.svg\n
